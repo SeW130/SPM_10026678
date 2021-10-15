@@ -61,7 +61,7 @@ logOut = (props) => {
                       
                       {/* <Text  style={styles.titleText}>{this.state.userName}</Text>
                       */}
-                      <Text  style={styles.titleText}> Pasindu </Text>
+                      <Text  style={styles.titleText}> TS </Text>
                      
                     
                      <TouchableOpacity onPress ={()=>this.logOut(this.props)}>
